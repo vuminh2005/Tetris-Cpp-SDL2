@@ -23,6 +23,7 @@ Trong Tetris, người chơi phải xếp các khối hình gọi là "tetromino
 - Thêm hiệu ứng âm thanh khi Hold (giữ), Rotate (xoay) và Drop (thả) các khối hình
 - Thêm nhạc nền và tính năng chọn nhạc nền
 - Tạo Menu trò chơi
+- Thêm chức năng tạm dừng
 - Thêm các chế độ chơi khác (VD: tính thời gian nhanh nhất để hoàn thành một số lượng hàng nhất định)
 
 ## Xin trân trọng cảm ơn thầy/bạn đã dành thời gian đọc, mong thầy/bạn có trải nghiệm tốt khi chơi game!
